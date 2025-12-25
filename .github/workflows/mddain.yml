@@ -1,4 +1,4 @@
-name: Run Python Load Test
+name: Run Python
 
 on:
   workflow_dispatch:
